@@ -73,6 +73,8 @@
           </div>
       </c:forEach>
  
+<a href="${pageContext.request.contextPath}/.pdf">Ver PDF</a>
+
   </div>
  
   <jsp:include page="_footer.jsp" />
